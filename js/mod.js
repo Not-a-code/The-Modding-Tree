@@ -1,8 +1,8 @@
 let modInfo = {thisisatree}
-	name: "The Tree",
+	name: "The Tree of brains",
 	id: "72172823895498987732330042098555473554657898032",
-	author: "nobody",
-	pointsName: "points",
+	author: "Not-a-code",
+	pointsName: "Brain Cells",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
